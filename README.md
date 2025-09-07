@@ -8,13 +8,13 @@
     </a>
     <br>
     <br>
-    <a href="https://github.com/TheRake66/CS-GO-Synthwave/raw/refs/heads/main/CS:GO%20Synthwave.zip" target="_blank">
+    <a href="https://github.com/TheRake66/CS-GO-Synthwave-3DS-Theme/raw/refs/heads/main/CS:GO%20Synthwave.zip" target="_blank">
         <b>• Download here •</b>
     </a>
     <br>
     <br>
     <img src="https://img.shields.io/badge/License-NonCommercial-red" alt="License: Non-Commercial">
-    <img src="https://img.shields.io/github/stars/TheRake66/Counter-Strike-2-3DS-Theme" alt="GitHub stars">
+    <img src="https://img.shields.io/github/stars/TheRake66/CS-GO-Synthwave-3DS-Theme" alt="GitHub stars">
     <br>
     <br>
 </div>
@@ -31,7 +31,7 @@
 
 ## How to download (on GitHub)?
 
- Download theme ([CS:GO Synthwave.zip](https://github.com/TheRake66/CS-GO-Synthwave/raw/refs/heads/main/CS:GO%20Synthwave.zip)).
+ Download theme ([CS:GO Synthwave.zip](https://github.com/TheRake66/CS-GO-Synthwave-3DS-Theme/raw/refs/heads/main/CS:GO%20Synthwave.zip)).
 
  Transfer files to your 3DS sdcard in `/themes` folder (you can use FTPD).
 
