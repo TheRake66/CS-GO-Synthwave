@@ -8,7 +8,7 @@
     </a>
     <br>
     <br>
-    <a href="" target="_blank">
+    <a href="https://github.com/TheRake66/CS-GO-Synthwave/raw/refs/heads/main/CS:GO%20Synthwave.zip" target="_blank">
         <b>• Download here •</b>
     </a>
     <br>
@@ -31,7 +31,7 @@
 
 ## How to download (on GitHub)?
 
- Download theme ([CS:GO Synthwave.zip]()).
+ Download theme ([CS:GO Synthwave.zip](https://github.com/TheRake66/CS-GO-Synthwave/raw/refs/heads/main/CS:GO%20Synthwave.zip)).
 
  Transfer files to your 3DS sdcard in `/themes` folder (you can use FTPD).
 
