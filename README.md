@@ -23,7 +23,7 @@
 
  Custom theme for Anemone3DS inspired by the synthwave remix of CS:GO trailer by Slimek.
 
- Remix here: [![test](https://youtu.be/fYK0_-jzrE4)
+ Remix [here](https://youtu.be/fYK0_-jzrE4).
 
 ### Main preview
 
