@@ -88,7 +88,7 @@ shorttitle=CS:GO Synthwave
 smallicon=theme_icons/icon_small.png
 
 [kame-editor]
-deploy=aaaaa.zip
+deploy=../CS:GO Synthwave.zip
 
 [textures]
 bottom.image=texture_assets/screen_bottom.png
