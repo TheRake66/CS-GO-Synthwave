@@ -16,7 +16,7 @@
 
 ## How to download?
 
- Scan the next QR code with Anemone3DS homebrew:
+ Scan the next QR code with Anemone3DS:
 
  ![QR code](./for_git/qr.png)
 
