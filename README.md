@@ -18,7 +18,7 @@
 
  Scan the next QR code with Anemone3DS:
 
- ![QR code](./for_git/qr.png)
+ ![QR code](./for_git/qrcode.png)
 
 ## How to use?
 
